@@ -8,6 +8,7 @@
 
 ### two-table verbs (joining)
 
+### reshaping and tidying
 
 ## visualization with ggplot2
 
