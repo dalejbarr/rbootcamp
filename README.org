@@ -1,0 +1,27 @@
+#+TITLE: UG Psych/Neuro 2016 Msc R Hackathon
+#+AUTHOR: Dale Barr
+#+OPTIONS: toc:nil h:3 ^:nil
+
+* Objectives
+
+** interaction with R / RStudio
+
+** data wrangling
+*** data input/output
+*** one-table verbs
+
+*** two-table verbs (joining)
+
+
+** visualization with ggplot2
+
+** creating RMarkdown reports
+
+* Exercises
+
+[[http://talklab.psy.gla.ac.uk/r_training/scoring_the_AQ/index.html][Scoring the AQ]]
+
+* Other resources
+
+
+
