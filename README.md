@@ -4,10 +4,10 @@
 
 ## Lesson recaps
 
-[Day 1: Introduction to R/RStudio, and one-table verbs](../blob/master/day_1/README.md)
+[Day 1: Introduction to R/RStudio, and one-table verbs](../master/day_1/README.md)
 
-[Day 2: Tidying, two-table verbs, visualization](../blob/master/day_2/README.md)
+[Day 2: Tidying, two-table verbs, visualization](../master/day_2/README.md)
 
-[Day 3: RMarkdown reports](../blob/master/day_3/README.md)
+[Day 3: RMarkdown reports](../master/day_3/README.md)
 
 ## Additional resources
