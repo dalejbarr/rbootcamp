@@ -1,24 +1,13 @@
-# Objectives
+# R hackathon
 
-## interaction with R / RStudio
+*Dale Barr* and *Lisa DeBruine*
 
-## data wrangling
-### data input/output
-### one-table verbs
+## Lesson recaps
 
-### two-table verbs (joining)
+[Day 1: Introduction to R/RStudio, and one-table verbs](tree/master/day_1)
 
-### reshaping and tidying
+[Day 2: Tidying, two-table verbs, visualization](tree/master/day_2)
 
-## visualization with ggplot2
+[Day 3: RMarkdown reports](tree/master/day_3)
 
-## creating RMarkdown reports
-
-# Exercises
-
-[[http://talklab.psy.gla.ac.uk/r_training/scoring_the_AQ/index.html][Scoring the AQ]]
-
-# Other resources
-
-
-
+## Additional resources
