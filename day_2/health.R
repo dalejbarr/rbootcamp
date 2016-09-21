@@ -30,7 +30,7 @@ matmort <- ?
 ## Get data on country codes from 
 ## https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv
 
-ccodes <- read_csv("https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv")
+ccodes <- ?
 
 ## check the column names and make them sensible
 
@@ -53,6 +53,7 @@ matmort2 <- ?
 ## split it on the left bracket using separate(data, col, into, sep = "\\[")
 
 matmort3 <- ?
+
 infmort2 <- ?
 
 ######################################################
@@ -65,6 +66,7 @@ infmort2 <- ?
 matmort4 <- ?
 
 ## now make sure that these columns and Year are <int> or <dbl>, not <chr>
+
 matmort5 <- ?
 
 infmort3 <- ?
