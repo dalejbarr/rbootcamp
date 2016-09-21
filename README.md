@@ -14,6 +14,8 @@
 
 - [Installing R/RStudio](http://talklab.psy.gla.ac.uk/r_training/install)
 
+- [List of add-on packages (CSV file)](../raw/master/cran.csv)
+
 ### Online tutorials
 
 - [swirl](http://swirlstats.com)
