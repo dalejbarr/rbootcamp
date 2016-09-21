@@ -1,0 +1,46 @@
+package,category,description
+readxl,data I/O,read in excel files
+readr,data I/O,read in text files
+haven,data I/O,"read in SAS, SPSS, STATA files"
+RSQLite,data I/O,sqlite dbs
+RMySQL,data I/O,mysql dbs
+googlesheets,data I/O,Google Sheets data
+dplyr,data wrangling,manipulating tables
+tidyr,data wrangling,reshaping tables
+purrr,data wrangling,functions for iteration
+magrittr,data wrangling,piping
+plyr,data wrangling,tools for split/apply/combine
+lubridate,data wrangling,working with dates
+stringr,data wrangling,working with strings
+ggplot2,visualization / communication,dataviz
+cowplot,visualization / communication,dataviz
+RColorBrewer,visualization / communication,make pretty colors
+citr,visualization / communication,bibtex reference manager
+rmarkdown,visualization / communication,light markup for literate programming
+knitr,visualization / communication,needed to 'knit' RMarkdown documents
+pandoc,visualization / communication,needed for exporting to different formats
+xtable,visualization / communication,make pretty tables
+apa,visualization / communication,apa formatting of stats results
+ez,statistical modeling,ANOVA
+car,statistical modeling,ANOVA
+Hmisc,statistical modeling,has rcorr() function
+MASS,statistical modeling,various stats functions
+lme4,statistical modeling,mixed-effects modeling
+afex,statistical modeling,wrappers for mixed-effects modeling
+nnet,statistical modeling,neural nets
+lavaan,statistical modeling,structural equation modeling
+rstan,statistical modeling,bayesian modeling
+bayesboot,statistical modeling,bayesian bootstrap
+MCMCpack,statistical modeling,bayesian modeling
+R2WinBUGS,statistical modeling,bayesian modeling
+BayesFactor,statistical modeling,bayesian modeling
+e1071,statistical modeling,various stats functions
+devtools,misc. utilities,installing from github
+parallel,misc. utilities,running things across multiple cores
+Rcpp,misc. utilities,integrate c++
+swirl,fun,learn R in R
+shiny,fun,dynamic web apps
+fortunes,fun,fun
+cowsay,fun,fun
+scholar,fun,citation info from google scholar
+babynames,fun,historical records of US baby names
